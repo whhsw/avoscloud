@@ -1,8 +1,8 @@
 {
-    "applicationName" : "NotificationWatcher",
+    "applicationName" : "TicketDemo",
     "applicationId": "r4peivaqmji4zeqf1jdv7519r4nt9uk35c55lyu3cnghh0ia",
     "applicationKey": "cey8wumpxdfxkoxroz0o03g1v8zebprx25ihd8ay9vmrjyzs",
     "global": {
-        "avVersion": "0.3.1"
+        "avVersion": "0.2.0"
     }
 }
